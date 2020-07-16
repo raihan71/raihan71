@@ -1,5 +1,5 @@
 ### Hi there 👋
-> I'm Raihan, a junior developer from Indonesia I also, run podcast codevcast.com
+> I'm Raihan, a junior developer and a podcaster [@codevcast](codevcast.com)
 
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Strapi.js
