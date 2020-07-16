@@ -1,9 +1,6 @@
 ### Hi there 👋
 > I'm Raihan, a junior developer from Indonesia I also, run podcast codevcast.com
 
-<!--
-**raihan71/raihan71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Strapi.js
 - 👯 I’m looking to collaborate on Open-Source project
