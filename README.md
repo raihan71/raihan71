@@ -1,5 +1,5 @@
 ### Hi there 👋
-> I'm Raihan, a junior developer and a podcaster [@codevcast](https://codevcast.com)
+> I'm Raihan, a frontend dev and a podcaster [@codevcast](https://codevcast.com)
 
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning Strapi.js
