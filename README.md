@@ -1,5 +1,7 @@
 # Hi everyone, I'm Raihan
 
+<a href="https://gitroll.io/profile/upbHGnPxXfEelyy2fuExeCLFs5hq2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/upbHGnPxXfEelyy2fuExeCLFs5hq2" alt="GitRoll Profile Badge"/></a>
+
 <a href="https://app.daily.dev/raihan71"><img src="https://api.daily.dev/devcards/v2/GR0oooib2IDMTZcTrcrvV.png?type=default&r=o9p" width="356" alt="Raihan Nismara's Dev Card"/></a>
 
 And welcome to my lab 🧪💻 
