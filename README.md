@@ -21,6 +21,6 @@ And welcome to my lab 🧪💻
 <a href="https://www.linkedin.com/in/raihannismara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raihannismara" height="30" width="40" /></a>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=raihan71&show_icons=true&theme=nightowl&locale=en" alt="raihan" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=raihan71&show_icons=true&theme=nightowl&locale=en" alt="raihan" /></p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raihan71&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="raihan" /></p>
