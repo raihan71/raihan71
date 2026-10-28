@@ -33,10 +33,13 @@ status     : Always learning...
 <div align="center">
 
 <a href="https://gitroll.io/profile/upbHGnPxXfEelyy2fuExeCLFs5hq2">
-  <img src="https://gitroll.io/api/badges/profiles/v1/upbHGnPxXfEelyy2fuExeCLFs5hq2" height="100" alt="GitRoll Profile" />
+  <img src="https://gitroll.io/api/badges/profiles/v1/upbHGnPxXfEelyy2fuExeCLFs5hq2" height="200" alt="GitRoll Profile" />
 </a>
 <a href="https://app.daily.dev/raihan71">
-  <img src="https://api.daily.dev/devcards/v2/GR0oooib2IDMTZcTrcrvV.png?type=default&r=o9p" height="100" alt="daily.dev Developer Card" />
+  <img src="https://api.daily.dev/devcards/v2/GR0oooib2IDMTZcTrcrvV.png?type=default&r=o9p" height="200" alt="daily.dev Developer Card" />
+</a>
+<a href="https://gitbrag.tech/api/card/raihan71.svg">
+  <img src="https://gitbrag.tech/api/card/raihan71.svg" height="200" alt="daily.dev Developer Card" />
 </a>
 
 </div>
